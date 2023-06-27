@@ -1,6 +1,6 @@
 {
   "name": "msx-react-native-wechat-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React-Native(iOS/Android) functionalities include WeChat Login, Share, Favorite and Payment.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
